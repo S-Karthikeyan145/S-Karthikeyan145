@@ -21,19 +21,19 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a computer science graduate interested in building practical software and understanding the engineering systems behind it.
 
 I enjoy working across the stack—from developing web interfaces and full-stack applications to integrating locally running AI models. I'm also strengthening my computer science fundamentals and exploring how software performance can be improved.
 
-- 🔭 **Building:** Full-stack applications and AI-powered tools
-- 🧠 **Learning:** Data Structures and Algorithms, system design fundamentals, and software architecture
-- 🤖 **Exploring:** Local LLMs, AI application architecture, and model evaluation
-- ⚡ **Long-term interests:** Systems programming, parallel computing, and CUDA
-- 🎯 **Goal:** Become a strong engineer who can design, build, test, and explain reliable systems
+- **Building:** Full-stack applications and AI-powered tools
+- **Learning:** Data Structures and Algorithms, system design fundamentals, and software architecture
+- **Exploring:** Local LLMs, AI application architecture, and model evaluation
+- **Long-term interests:** Systems programming, parallel computing, and CUDA
+- **Goal:** Become a strong engineer who can design, build, test, and explain reliable systems
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 ### Languages
 
@@ -65,9 +65,9 @@ I enjoy working across the stack—from developing web interfaces and full-stack
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 </p>
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🌿 FieldQuest AI
+### FieldQuest AI
 
 An AI-powered outdoor scavenger-hunt generator that creates missions for screen-light outdoor activities.
 
@@ -77,21 +77,21 @@ An AI-powered outdoor scavenger-hunt generator that creates missions for screen-
 - Explores AI-generated content and full-stack application development.
 - Provides experience with application architecture and API integration.
 
-🔗 **[View FieldQuest AI](https://github.com/S-Karthikeyan145/fieldquest-ai)**
+ **[View FieldQuest AI](https://github.com/S-Karthikeyan145/fieldquest-ai)**
 
-### 🧩 DSA Practice
+### DSA Practice
 
 A structured collection of algorithmic problem-solving exercises, organized by topic.
 
 **Focus:** Algorithms · Data Structures · Complexity Analysis · Testing
 
-🔗 **[Explore my repositories](https://github.com/S-Karthikeyan145?tab=repositories)**
+ **[Explore my repositories](https://github.com/S-Karthikeyan145?tab=repositories)**
 
-### 🚧 More Engineering Projects
+### More Engineering Projects
 
 I'm working toward deeper projects in full-stack engineering, AI systems, software quality, and performance optimization. I'll feature them here as they become ready to demonstrate.
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
@@ -108,7 +108,7 @@ I'm working toward deeper projects in full-stack engineering, AI systems, softwa
 
 </div>
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
@@ -116,7 +116,7 @@ I'm working toward deeper projects in full-stack engineering, AI systems, softwa
 
 </div>
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
@@ -128,7 +128,7 @@ I'm working toward deeper projects in full-stack engineering, AI systems, softwa
 
 </div>
 
-## 🧭 Engineering Principles
+## Engineering Principles
 
 - **Understand first:** Know why an implementation works, not just how to write it.
 - **Write maintainable code:** Prioritize clarity, correctness, and testability.
@@ -136,7 +136,7 @@ I'm working toward deeper projects in full-stack engineering, AI systems, softwa
 - **Document trade-offs:** Explain design decisions and their consequences.
 - **Keep learning:** Build, test, debug, review, and improve.
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <p>
   <a href="https://github.com/S-Karthikeyan145">
