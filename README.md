@@ -108,11 +108,17 @@ I'm working toward deeper projects in full-stack engineering, AI systems, softwa
 
 </div>
 
-## Contribution Activity
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=S-Karthikeyan145&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph" width="100%"/>
+<a href="https://github.com/S-Karthikeyan145">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=S-Karthikeyan145&theme=github-compact"
+    alt="GitHub contribution activity graph"
+    width="100%"
+  />
+</a>
 
 </div>
 
